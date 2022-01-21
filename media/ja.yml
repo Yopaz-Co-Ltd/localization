@@ -1,0 +1,22 @@
+ja:
+  errors:
+    messages:
+      content_type_invalid: "の形式が無効です。"
+      file_size_out_of_range: "のサイズ (%{file_size}) は範囲外です。"
+      limit_out_of_range: "画像の数は範囲外です。"
+      image_metadata_missing: "有効な画像ではありません。"
+      dimension_min_inclusion: "画像のサイズは%{width} x %{height}以上にしてください。"
+      dimension_max_inclusion: "画像のサイズは%{width} x %{height}以下にしてください。"
+      dimension_width_inclusion: "画像の幅は%{min}と%{max}の間にしてください。"
+      dimension_height_inclusion: "画像の高さは%{min}と%{max}の間にしてください。"
+      dimension_width_greater_than_or_equal_to: "画像の幅は%{length}以上にしてください。"
+      dimension_height_greater_than_or_equal_to: "画像の高さは%{length}以上にしてください。"
+      dimension_width_less_than_or_equal_to: "画像の幅は%{length}以下にしてください。"
+      dimension_height_less_than_or_equal_to: "画像の高さは%{length}以下にしてください。"
+      dimension_width_equal_to: "画像の幅はちょうど%{length}にしてください。"
+      dimension_height_equal_to: "画像の高さちょうど%{length}にしてください。"
+      aspect_ratio_not_square: "画像は正方形にしてください。"
+      aspect_ratio_not_portrait: "画像はportraitにしてください。"
+      aspect_ratio_not_landscape: "画像はlandscapeにしてください。"
+      aspect_ratio_is_not: "アスペクト比は%{aspect_ratio}にしてください。"
+      aspect_ratio_unknown: "アスペクト比は無効です。"
